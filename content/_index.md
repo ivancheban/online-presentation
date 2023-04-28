@@ -53,7 +53,7 @@ title = "Create online presentations with Hugo"
 
 * Fork this repo: https://github.com/ivancheban/online-presentation
 * Go to the **online-presentation** folder.
-* Run:
+* Run this command:
 ```
 hugo server
 ```
