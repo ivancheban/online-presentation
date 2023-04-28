@@ -3,7 +3,7 @@ outputs = ["Reveal"]
 title = "Create online presentations with Hugo"
 
 +++
-## Create online decks with Hugo and Markdown
+## Create online presentations with Hugo and Markdown
 
 ---
 
@@ -37,14 +37,42 @@ title = "Create online presentations with Hugo"
 
 ---
 
-Prerequisites:
+## Prerequisites
 
-Make sure you've installed:
+---
 
 * Git
 * Hugo
+* Visual Studio Code
 
-Then:
+---
 
-1. Fork this repo: `git clone`
-1. 
+## Run your site locally
+
+---
+
+* Fork this repo: https://github.com/ivancheban/online-presentation
+* Go to the **online-presentation** folder.
+* Run:
+```
+hugo server
+```
+* Go to the http://localhost:61669/ or other generated local host address.
+
+---
+
+## Edit the presentation
+
+---
+
+* Open the `online-presentation/content/_index.md` file and edit the slides.
+* Use `---` before the next slide.
+* Commit and push your changes to the remote repository.
+
+---
+
+## Deploy your site
+
+---
+* Sign up on Netlify: https://app.netlify.com/
+* Add a new site by importing your forked repo from GitHub.
