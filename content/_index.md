@@ -74,5 +74,14 @@ hugo server
 ## Deploy your site
 
 ---
+
 * Sign up on Netlify: https://app.netlify.com/
 * Add a new site by importing your forked repo from GitHub.
+
+---
+
+## Enjoy your online presentation!
+
+---
+
+![img](img/online-presentation.png)
