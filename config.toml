@@ -1,4 +1,4 @@
-baseURL = "/online=presentation/"
+baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "reveal-hugo"
