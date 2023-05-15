@@ -8,7 +8,7 @@ To see the presentation live, visit [ivancheban.github.io/online-presentation](h
 
 1. Install Hugo using [any of these ways](https://gohugo.io/getting-started/installing/).
 
-2. Clone this repository including submodules (the theme is a submodule):
+2. Clone this repository:
 
 ```shell
 git clone https://github.com/ivancheban/online-presentation.git
