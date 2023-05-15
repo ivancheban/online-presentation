@@ -84,4 +84,4 @@ hugo server
 
 ---
 
-![img](img/online-presentation.png)
+![img](img/cat.png)
