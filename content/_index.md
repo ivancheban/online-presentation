@@ -57,7 +57,7 @@ title = "Create online presentations with Hugo"
 ```
 hugo server
 ```
-* Go to the http://localhost:61669/ or other generated local host address.
+* Go to the http://localhost:1313/ or other generated local host address.
 
 ---
 
