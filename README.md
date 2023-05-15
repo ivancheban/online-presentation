@@ -11,7 +11,7 @@ To see the presentation live, visit [ivancheban.github.io/online-presentation](h
 2. Clone this repository including submodules (the theme is a submodule):
 
 ```shell
-git clone git@github.com:dzello/programming-quotes --recurse-submodules
+git clone https://github.com/ivancheban/online-presentation.git
 ```
 
 3. Change directories and run Hugo:
