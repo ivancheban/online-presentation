@@ -1,12 +1,12 @@
-# programming-quotes
+# Online presentation
 
-A dead-simple boilerplate and demo presentation for the [reveal-hugo](https://dzello.com/reveal-hugo) Reveal.js Hugo theme.
+A boilerplate and demo presentation for the [reveal-hugo](https://dzello.com/reveal-hugo) Reveal.js Hugo theme.
 
-To see the presentation live, visit [programming-quotes.netlify.com](https://programming-quotes.netlify.com).
+To see the presentation live, visit [ivancheban.github.io/online-presentation](https://ivancheban.github.io/online-presentation).
 
 # Usage
 
-1. Install hugo using [any of these ways](https://gohugo.io/getting-started/installing/).
+1. Install Hugo using [any of these ways](https://gohugo.io/getting-started/installing/).
 
 2. Clone this repository including submodules (the theme is a submodule):
 
@@ -14,10 +14,10 @@ To see the presentation live, visit [programming-quotes.netlify.com](https://pro
 git clone git@github.com:dzello/programming-quotes --recurse-submodules
 ```
 
-3. Change directories and run hugo in server mode:
+3. Change directories and run Hugo:
 
 ```shell
-cd programming-quotes
+cd online-presentation
 
 hugo server
 ```
